@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 31 09:08:15 2026
-
-@author: lenovo
-"""
-
-"""
-customer churn analysis
-churn prediction + marketing campaign analysis
-"""
-
 
 import pandas as pd
 import numpy as np 
