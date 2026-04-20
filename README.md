@@ -23,21 +23,21 @@ Hypothesis Testing Results
 - Churned customers avg tenure: **18.0 months**
 - Retained customers avg tenure: **37.7 months**
 - Difference: **19.7 months**
-- ✅ Strong Evidence: Retained customers stay significantly longer
+- Strong Evidence: Retained customers stay significantly longer
 
 
 
 ### Monthly Charges & Churn
 - Churned customers pay: **$74.44/month**
 - Retained customers pay: **$61.31/month**
-- ✅ Strong Evidence: Higher charges linked to more churn
+- Strong Evidence: Higher charges linked to more churn
 
 
 
 
 ### Payment Method & Churn
 - Electronic check has the highest churn rate: **45.3%**
-- ✅ Strong Evidence: Payment method significantly affects churn
+- Strong Evidence: Payment method significantly affects churn
 
 
 ## Predictive Model (Logistic Regression)
