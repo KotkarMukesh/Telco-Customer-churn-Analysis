@@ -57,6 +57,11 @@ Hypothesis Testing Results
 | Monthly Charges | 1.01 | +0.6% |
 | Tenure | 0.97 | -3.2% |
 
+
+## Visualization results 
+<img width="2280" height="2568" alt="image" src="https://github.com/user-attachments/assets/806d1f4a-3705-4549-93cb-8b9252793616" />
+
+
 ## Tools Used
 - Python
 - Spyder IDE
